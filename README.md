@@ -24,3 +24,6 @@ This a repo with my solutions to somethings exercises on [Exercism.io](https://e
   * [Sum Of Multiples](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/sum_of_multiples.ex)
   * [Pangram](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/pangram.ex)
   * [Isogram](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/isogram.ex)
+* [Roman Numerals](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/roman-numerals/extras/roman_numerals.ex) - Write a function to convert from normal numbers to Roman Numerals.
+  * [Flatten Array](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/roman-numerals/extras/flatten_array.ex)
+  * [Collatz Conjecture](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/roman-numerals/extras/collatz_conjecture.ex)
