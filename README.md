@@ -18,3 +18,9 @@ This a repo with my solutions to somethings exercises on [Exercism.io](https://e
   * [Series](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/rna-transciption/extras/series.ex)
   * [Raindrops](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/rna-transciption/extras/raindrops.ex)
   * [Run Length Encoding](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/rna-transciption/extras/run_length_encoding.ex)
+* [Word Count](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/word_count.ex) - Given a phrase, count the occurrences of each word in that phrase.
+  * [Twelve Days](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/twelve_days.ex)
+  * [Scrabble Score](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/screabble_score.ex)
+  * [Sum Of Multiples](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/sum_of_multiples.ex)
+  * [Pangram](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/pangram.ex)
+  * [Isogram](https://github.com/DarkCode01/exercism-elixir/blob/develop/solutions/word-count/extras/isogram.ex)
